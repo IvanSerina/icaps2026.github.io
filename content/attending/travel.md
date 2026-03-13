@@ -111,7 +111,7 @@ Luas is the Dublin light rail service that operates two tram lines, the Red line
 Dublin is one of many European cities that offer a bike sharing scheme for its many visitors and residents.  You will see throughout the city centre the Dublin bikes parked throughout the capital.  For information on how to hire visit <a href="https://www.dublinbikes.ie/" target="_blank">Dublin Bikes</a>. These are a fun way to explore Dublin.
 
 ### Car hire
-Available at Dublin Airport you can select to self-drive while in Ireland. Two of the major companies are <a href="http://www.hertz.ie/" target="_blank">Hertz Car Hire</a> and <a href="http://www.avis.ie/default.aspx" target="_blank">Avis Car Hire</a>
+Available at Dublin Airport you can select to self-drive while in Ireland. 
 
 
 # Visas & Passports
