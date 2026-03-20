@@ -44,7 +44,7 @@ Please do not submit papers that are already accepted for the ICAPS main confere
 - Timo P. Gros, German Research Center for Artificial Intelligence, Germany
 - Jörg Hoffmann, Saarland University, Germany
 - Sarath Sreedharan, Colorado State University, USA
-- Marcel Steinmetz, French National Centre for Scientific Research (CNRS)
+- Marcel Steinmetz, French National Centre for Scientific Research (CNRS), France
 - Sylvie Thiebaux, University of Toulouse, France, and Australian National University, Australia
 - Felipe Trevizan, Australian National University, Australia
 - Marcel Vinzent, Saarland University, Germany
