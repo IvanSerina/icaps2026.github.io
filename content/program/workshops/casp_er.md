@@ -52,8 +52,7 @@ Submissions must be in PDF format and will be handled via the [EasyChair Confere
 - Nicola Gigante - Free University of Bozen-Bolzan
 - Andrea Micheli - Fondazione Bruno Kessler
 
-<!---
+
 ## Contacts
 
 For more information email to any of the program chairs at [casper2026@easychair.org](mailto:casper2026@easychair.org)
--->
