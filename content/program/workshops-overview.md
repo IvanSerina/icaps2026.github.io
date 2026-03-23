@@ -139,8 +139,8 @@ Here is the list of the worskhops accepted to ICAPS 2026
 
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
- 		<!--<p><a href="/program/workshops/prl">PRL</a></p>-->
-        <p><strong>PRL</strong></p>
+ 		<p><a href="/program/workshops/prl">PRL</a></p>
+        <!--<p><strong>PRL</strong></p>-->
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
  		<p><strong>Bridging the Gap Between AI Planning and (Reinforcement) Learning</strong></p>
