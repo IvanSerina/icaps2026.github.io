@@ -17,7 +17,6 @@ For the convenience of participants who do not fly away on the last day of the c
 <strong>Please use the following link for bookings</strong> to The Clayton Hotel on Burlington Road: <a href="https://bookings.claytonhotels.com/offer/burlington-road/icapsconference" target="_blank">Booking Page</a>
 
 The link provided covers the interval from June 26th (check-in) to July 3rd (check-out), and you can select your nights within this interval.
-
 If you want to book a longer stay with some nights outside this time interval, do the following:
 - Use the link provided here to book your selected nights within the interval June 26th to July 3rd at the negotiated rate within the block of bedrooms reserved.
 - Book your extra nights separately.
