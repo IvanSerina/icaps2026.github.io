@@ -16,6 +16,15 @@ For the convenience of participants who do not fly away on the last day of the c
 
 <strong>Please use the following link for bookings</strong> to The Clayton Hotel on Burlington Road: <a href="https://bookings.claytonhotels.com/offer/burlington-road/icapsconference" target="_blank">Booking Page</a>
 
+The link provided covers the interval from June 26th (check-in) to July 3rd (check-out), and you can select your nights within this interval.
+
+If you want to book a longer stay with some nights outside this time interval, do the following:
+- Use the link provided here to book your selected nights within the interval June 26th to July 3rd at the negotiated rate within the block of bedrooms reserved.
+- Book your extra nights separately.
+- Inform the hotel so that they can allocate the same room for the entire stay.
+
+
+
 In case you want to <strong>share accommodation</strong>, we provide a Discord server to get in touch with other attendants that you can share a room with: <a href="https://discord.gg/R32xdJKjHZ" target="_blank">Share Accommodation</a> <br>
 ICAPS does not manage this server. It is the responsibility of the participants to contact each other, find a room mate and complete all the steps of bedroom booking.
 
