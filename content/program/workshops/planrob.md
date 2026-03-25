@@ -51,11 +51,11 @@ Important goals of the workshop are the discussion of solutions, results, open i
 ## Important Dates
 
 - Submission Deadline: April 20, 2026 (AoE)
-- Author Notification: May 5, 2026
+- Author Notification: May 15, 2026
 - Camera-Ready Deadline: June 5, 2023
 - ICAPS 2026 Workshops: June 28-29, 2026
 
-Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, etc.). **You will still be able to upload/update your paper until April 3 (AoE).**
+Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, etc.). 
 
 
 ## Submission Instructions
