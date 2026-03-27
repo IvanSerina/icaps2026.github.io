@@ -88,7 +88,7 @@ All deadlines will use UTC-12 as the reference timezone (i.e., the deadline has 
 - **Notification date:** March 27, 2026
 - **Doctoral Consortium day at ICAPS 2026:** June 27, 2026
 
-<s>Applications submitted after March 9 may still be considered, if places remain available. However, priority for any available student support/funding will be given to applications submitted by the deadline.<s>
+<~~>Applications submitted after March 9 may still be considered, if places remain available. However, priority for any available student support/funding will be given to applications submitted by the deadline.<~~>
 
 ---
 
